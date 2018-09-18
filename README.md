@@ -50,7 +50,7 @@ $ ng serve -o
 
   - ***First Page*** 
 
-  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/ng6-material/Table01.gif" width= "640" >
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/ng6-material/Table01.gif" width= "800" >
 
 
 ## Version
