@@ -68,6 +68,9 @@ $ ng serve -o
 - "Schematics", 
 <https://material.angular.io/guide/schematics>
 
+- "JsonPlaceholder", 
+<https://jsonplaceholder.typicode.com/>
+
 - "Angular 5, Angular 6 Custom Library: Step-by-step guide", 
 <https://www.udemy.com/angular5-custom-library-the-definitive-step-by-step-guide/>
  (Discount Coupon until 2018/9/30)
@@ -77,6 +80,19 @@ $ ng serve -o
 <https://www.udemy.com/angular5-l/>
 (割引クーポン 2018/9/30まで)
 <https://www.udemy.com/angular5-l/?couponCode=NG5-CUSLIB-JA-0930>
+
+- "ng6-udm-mock Angular6 Service Library to use JsonPlaceholder and json-server", 
+<https://www.npmjs.com/package/ng6-udm-mock>
+
+- "Reactive Programming with RxJS 5: Untangle Your Asynchronous JavaScript Code", 2018/2/15,Sergi Mansilla
+<https://www.amazon.co.jp/Reactive-Programming-RxJS-Asynchronous-JavaScript/dp/1680502476/ref=sr_1_7?ie=UTF8&qid=1537063252&sr=8-7&keywords=reactive+programming>
+
+- "Angular Material Data Table: A Complete Example", Angular University
+<https://blog.angular-university.io/angular-material-data-table/>
+
+- "Angular 5 Data Table Example(Pagination+Sorting+Filtering)", 2018/01, Dhiraj Ray
+<https://blog.angular-university.io/angular-material-data-table/>
+
 
 
 ## Change Log
