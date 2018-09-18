@@ -70,10 +70,13 @@ $ ng serve -o
 
 - "Angular 5, Angular 6 Custom Library: Step-by-step guide", 
 <https://www.udemy.com/angular5-custom-library-the-definitive-step-by-step-guide/>
-
+ (Discount Coupon until 2018/9/30)
+<https://www.udemy.com/angular5-custom-library-the-definitive-step-by-step-guide/?couponCode=NG5-CUSLIB-EN-1001>
 
 - "Angular 5, Angular 6用 カスタムライブラリの作成: 完全ステップ・バイ・ステップ・ガイド", 
 <https://www.udemy.com/angular5-l/>
+(割引クーポン 2018/9/30まで)
+<https://www.udemy.com/angular5-l/?couponCode=NG5-CUSLIB-JA-0930>
 
 
 ## Change Log
