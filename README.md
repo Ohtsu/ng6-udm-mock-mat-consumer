@@ -1,4 +1,4 @@
-﻿
+﻿﻿
 # _Ng6UdmMockMatConsumer_ Table with sorting and paging functions based on Angular Material in Angular6
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
@@ -6,17 +6,14 @@
 _Ng6UdmMockMatConsumer_ is a initial set for those who want to make tables with sorting and paging functions by Angular Material in Angular6.
 
 _This full source code_,
-<https://github.com/Ohtsu/ng6-dashboard-sample>
+<https://github.com/Ohtsu/ng6-udm-mock-mat-consumer>
 
 _Video Explanation (Japanese)_,
-<https://youtu.be/3mkYx1YFGoc>
+<https://youtu.be/AsVctVk0Hxk>
 
 _Video Explanation (English)_,
-<https://youtu.be/s4vXOOU9sp0>
+<https://youtu.be/qt6TsDoQR7g>
 
-    MatTableModule,
-    MatPaginatorModule,
-    MatSortModule
 
 ## Overview 
    - _Ng6UdmMockMatConsumer_ is a table sample project based on Angular Material in Angular6.
@@ -53,7 +50,7 @@ $ ng serve -o
 
   - ***First Page*** 
 
-  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/ng6-material/Dashboard03.gif" width= "640" >
+  <img src="https://raw.githubusercontent.com/Ohtsu/images/master/ng6-material/Table01.gif" width= "640" >
 
 
 ## Version
