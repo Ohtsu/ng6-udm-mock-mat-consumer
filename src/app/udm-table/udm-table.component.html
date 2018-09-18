@@ -1,0 +1,32 @@
+<div>
+  <table mat-table #table [dataSource]="commentDataSource" matSort >
+    <ng-container matColumnDef="id">
+      <mat-header-cell *matHeaderCellDef mat-sort-header>id</mat-header-cell>
+      <mat-cell *matCellDef="let comment">{{comment.id}}</mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="postId">
+      <mat-header-cell *matHeaderCellDef mat-sort-header>postId</mat-header-cell>
+      <mat-cell *matCellDef="let comment">{{comment.postId}}</mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="name">
+      <mat-header-cell *matHeaderCellDef mat-sort-header>name</mat-header-cell>
+      <mat-cell *matCellDef="let comment">{{comment.name}}</mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="email">
+      <mat-header-cell *matHeaderCellDef mat-sort-header>email</mat-header-cell>
+      <mat-cell *matCellDef="let comment">{{comment.email}}</mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="body">
+      <mat-header-cell *matHeaderCellDef mat-sort-header>body</mat-header-cell>
+      <mat-cell *matCellDef="let comment">{{comment.body}}</mat-cell>
+    </ng-container>
+    <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+    <mat-row *matRowDef="let row; columns: displayedColumns"></mat-row>
+  </table>
+  <mat-paginator #paginator
+    [pageIndex]="0"
+    [pageSize]="10"
+    [pageSizeOptions]="[3, 5, 10, 25, 50, 100, 250]">
+  </mat-paginator>
+</div>
+
